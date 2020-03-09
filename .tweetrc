@@ -1,0 +1,5 @@
+[Tweet]
+consumer_key: *consumer_key*
+consumer_secret: *consumer_password*
+access_key: *access_key*
+access_secret: *access_password*
