@@ -23,3 +23,17 @@ Inside the script.py file replace the access token with your page access token. 
 my-pc$ python script.py
 my-pc$ Please enter your message : Foo bar baz
 ```
+
+# Tweet a message
+
+### Tweet a simple message using the python-twitter SDK
+
+1. Same as the Step 1 from the previous section
+
+2. Replace the tokens in the .tweetrc file
+
+3. Tweet
+
+``` sh
+my-pc$ python tweet.py My new tweet
+```
